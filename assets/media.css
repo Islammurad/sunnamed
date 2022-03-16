@@ -1,0 +1,955 @@
+@media screen and (max-width: 368px) {
+	.header-menu {
+		display: block;
+	}
+	ul.item-nav {
+		display: block;
+		text-align: center;
+	}
+	ul.items-nav {
+		padding-left: 0px;
+		display: flex;
+		justify-content: center;
+	}
+	.main-items {
+		display: block;
+	}
+	.sunnamed-years {
+		padding-top: 0px;
+		text-align: center;
+	}
+	.sunnamed-course p {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.sunnamed-income p {
+		font-size: 16px;
+	}
+	.income p {
+		font-size: 14px;
+	}
+	.years p {
+		font-size: 20px;
+		color: #fff;
+	}
+	.doctor-flex {
+		display: block;
+	}
+	ul.nav-items-doctor {
+    	text-align: left;
+	}
+	li.items-doctor {
+		font-size: 16px;
+		background-position: inherit;
+	}
+	.sunnamed-buttons {
+		justify-content: center;
+	}
+	.menu-right {
+		display: block;
+		text-align: center;
+	}
+	.doctor-consultation {
+		margin-top: 0;
+		padding-bottom: 50px;
+	}
+	.doctor-image {
+		text-align: center;
+		background-position: 50px 30px;
+	}
+	.doctor-image img {
+		padding: 0px 0px 0px 0px;
+		width: 60%;
+	}
+	.treatment-title h1 {
+		font-size: 22px;
+		padding-top: 0;
+	}
+	.videoPopup.popup-back._anim-items._anim-no-hide._active {
+    	height: 35vh;
+    	background-position: 73% 0%;
+	}
+	.subtitle p {
+		font-size: 16px;
+	}
+	.play {
+		padding: 5rem 0rem 7rem 8rem
+	}
+	.popup-back-one {
+		background-position: bottom;
+	}
+	.popup-back-two {
+		background-position: bottom;
+	}
+	.popup-back-three {
+		background-size: initial;
+		background-position: bottom;
+	}
+	.popup-back-four {
+		background-size: initial;
+		background-position: bottom;
+	}
+	.cause-title h1 {
+		font-size: 26px;
+		padding-top: 0;
+	}
+	.consultation-flex {
+		display: block;
+		padding-top: 0;
+	}
+	.consultation-title h1 {
+		font-size: 28px;
+		line-height: 30px;
+	}
+	.consultation-subtitle p {
+		font-size: 18px;
+	}
+	.form-top {
+    	padding-top: 10px;
+    	padding-bottom: 15px;
+	}
+	.form-button {
+		margin-top: 14px;
+	}
+	.sunnamed-doctor-name p {
+		font-size: 26px;
+	}
+	.work-grid {
+		grid-template-columns: repeat(1, 1fr);
+		padding-top: 10px;
+	}
+	.sunnamed-work {
+		padding-top: 0;
+	}
+	.grid-card-one {
+    	border-radius: 6%;
+    	margin-bottom: 20px;
+	}
+	.grid-card-two {
+    	border-radius: 6%;
+    	margin-bottom: 20px;
+	}
+	.grid-card-three {
+    	border-radius: 6%;
+	}
+	.work-button {
+		padding-top: 20px;
+	}
+	.learn-card {
+		padding-top: 10px;
+		text-align: center;
+	}
+	.learn-title h1 {
+		font-size: 30px;
+	}
+	.learn-subtitle p {
+		font-size: 24px;
+	}
+	.left-one {
+		margin-left: 0;
+	}
+	.left-two {
+		margin-left: 0;
+	}
+	.left-three {
+		margin-left: 0;
+	}
+	.left-four {
+		margin-left: 0;
+	}
+	.left-five {
+		margin-left: 0;
+	}
+	.left-six {
+		margin-left: 0;
+	}
+	.left-seven {
+		margin-left: 0;
+	}
+	.left-next {
+		margin-left: 0;
+	}
+	li.ul-items {
+		padding-left: 35px;
+		padding-top: 10px;
+	}
+	.certificate {
+		padding-top: 0;
+	}
+	.certificate-title h1 {
+		font-size: 24px;
+	}
+	.video {
+		background-size: cover;
+		width: 100%;
+		height: 100%
+	}
+	.videos {
+		height: 30vh;
+		text-align: center;
+		background-position: 55% 18%;
+	}
+	.videos2 {
+		height: 30vh;
+		text-align: center;
+		background-position: 55% 18%;
+	}
+	.videos3 {
+		height: 30vh;
+		text-align: center;
+		background-position: 55% 18%;
+	}
+	.videos4 {
+		height: 30vh;
+		text-align: center;
+		background-position: 55% 18%;
+	}
+	.modalDialogs {
+		top: 5rem;
+		right: 30rem;
+	}
+	.video-play {
+		display: block;
+    	padding: 65px 0px 0px 28px;
+	}
+	.students {
+		margin-top: 0;
+	}
+	.question-title h1 {
+		font-size: 20px;
+	}
+	button.accordion {
+    	font-size: 15px;
+	}
+	.accordion:after{
+		margin-top: -16px;
+	}
+	.sunnamed-maps {
+		padding-top: 10px;
+	}
+	.cause-row {
+		display: block;
+	}
+	.certificate-videos {
+		display: block;
+	}
+	.form-button {
+		width: 80%;
+		margin: 0 auto;
+	}
+	.image-block {
+		display: block;
+		padding-top: 0;
+		text-align: center;
+	}
+	.certificate-subtitle p {
+		font-size: 16px;
+		padding-top: 10px;
+	}
+	.certificate-work {
+		margin-top: 10px;
+		height: 100%;
+		background-image: none;
+	}
+	.learn-grid {
+		display: block;
+	}
+	.calendar-img img {
+		width: 100%;
+	}
+	.form-name input {
+		width: 280px;
+	}
+	.form-number input {
+		width: 280px;
+	}
+	.consultation-form {
+		text-align: center;
+	}
+	.treatment-info {
+		display: block;
+	}
+	.students-title h1 {
+		font-size: 22px;
+		line-height: 28px;
+	}
+
+	.students-img {
+		display: block;
+		text-align: center;
+	}
+	.students-items {
+		padding-bottom: 20px;
+	}
+	.sunnamed-bonus {
+		margin-top: 10px;
+	}
+	.bonus-title h1 {
+		font-size: 24px;
+		line-height: 30px;
+		padding-top: 10px;
+	}
+	.sunnamed-gifts {
+		display: block;
+	}
+	.card-top {
+		padding-left: 10px;
+	}
+	.calendar-subtitle p {
+		font-size: 14px;
+		text-align: center;
+	}
+	.gifts-vector img {
+		padding-top: 10px;
+		margin-left: 0;
+	}
+	.card-left {
+		margin-left: 0;
+	}
+	.gifts-vector2 img {
+    	margin: -15px 0px 0px 90px;
+	}
+	.gifts-subtitle {
+    	margin: -24px 0px 0px 80px;
+	}
+	.footer-items {
+		display: block;
+		text-align: center;
+	}
+	.footer-sites {
+	    justify-content: center;
+	    align-items: center;
+	    padding-top: 20px;
+	}
+}
+
+
+
+
+
+
+@media screen and (min-width: 368px) and (max-width: 468px){
+	.header-menu {
+		display: block;
+	}
+	ul.item-nav {
+		display: block;
+		text-align: center;
+	}
+	ul.items-nav {
+		padding-left: 0px;
+		display: flex;
+		justify-content: center;
+	}
+	.main-items {
+		display: block;
+	}
+	.sunnamed-years {
+		padding-top: 0px;
+		text-align: center;
+	}
+	.sunnamed-course p {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.sunnamed-income p {
+		font-size: 16px;
+	}
+	.income p {
+		font-size: 14px;
+	}
+	.work-title h1 {
+		padding-top: 15px;
+	}
+	.years p {
+		font-size: 20px;
+		color: #fff;
+	}
+	.info-subtitle p {
+		font-size: 20px;
+	}
+
+	.doctor-flex {
+		display: block;
+	}
+	ul.nav-items-doctor {
+    	text-align: left;
+	}
+	li.items-doctor {
+		font-size: 16px;
+		background-position: inherit;
+	}
+	.sunnamed-buttons {
+		justify-content: center;
+	}
+	.menu-right {
+		display: block;
+		text-align: center;
+	}
+	.doctor-consultation {
+		margin-top: 0;
+		padding-bottom: 50px;
+	}
+	.doctor-image {
+		text-align: center;
+		background-position: 50px 30px;
+	}
+	.doctor-image img {
+		padding: 0px 0px 0px 0px;
+		width: 53%;
+	}
+	.consultation-form {
+    	text-align: center;
+	}
+	.treatment-title h1 {
+		font-size: 22px;
+		padding-top: 0;
+	}
+	.videoPopup.popup-back._anim-items._anim-no-hide._active {
+    	height: 35vh;
+    	background-position: 73% 0%;
+	}
+	.popupAlignCenter {
+		margin-top: -13rem;
+	}
+	.popup-back-one {
+    	background-position: 48%;
+    	height: 200px;
+    	margin-bottom: 10px;
+	}
+	.popup-back-two {
+    	background-position: 48%;
+    	height: 200px;
+    	margin-bottom: 10px;
+	}
+	.popup-back-three {
+    	background-position: 48%;
+    	height: 200px;
+    	margin-bottom: 10px;
+	}
+	.popup-back-four {
+    	background-position: 48%;
+    	height: 200px;
+    	margin-bottom: 10px;
+	}
+	.subtitle p {
+		font-size: 16px;
+	}
+	.play {
+		height: 300px;
+		padding: 100px 0 0 150px;
+	}
+	.cause-title h1 {
+		font-size: 26px;
+		padding-top: 0;
+	}
+	.consultation-flex {
+		display: block;
+		padding-top: 0;
+	}
+	.consultation-title h1 {
+		font-size: 28px;
+		line-height: 30px;
+	}
+	.consultation-subtitle p {
+		font-size: 18px;
+	}
+	.form-top {
+    	padding-top: 10px;
+    	padding-bottom: 15px;
+	}
+	.form-button {
+		margin-top: 14px;
+	}
+	.sunnamed-doctor-name p {
+		font-size: 26px;
+	}
+	.work-grid {
+		grid-template-columns: repeat(1, 1fr);
+		padding-top: 10px;
+	}
+	.sunnamed-work {
+		padding-top: 0;
+	}
+	.grid-card-one {
+    	border-radius: 6%;
+    	margin-bottom: 20px;
+	}
+	.grid-card-two {
+    	border-radius: 6%;
+    	margin-bottom: 20px;
+	}
+	.grid-card-three {
+    	border-radius: 6%;
+	}
+	.work-button {
+		padding-top: 20px;
+	}
+	.learn-card {
+		padding-top: 10px;
+		text-align: center;
+	}
+	.learn-title h1 {
+		font-size: 30px;
+	}
+	.learn-subtitle p {
+		font-size: 24px;
+	}
+	.left-one {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-two {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-three {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-four {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-five {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-six {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-seven {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	.left-next {
+		margin-left: 0;
+		transform: translate(-20px, 0%);
+	}
+	li.ul-items {
+		padding-left: 35px;
+		padding-top: 10px;
+	}
+	.certificate {
+		padding-top: 0;
+	}
+	.certificate-title h1 {
+		font-size: 24px;
+	}
+	.video {
+		background-size: cover;
+		width: 100%;
+		height: 100%
+	}
+	.modalDialogs {
+		top: 5rem;
+		right: 30rem;
+	}
+	.video-play {
+		display: block;
+    	padding: 65px 0px 0px 28px;
+	}
+	.students {
+		margin-top: 0;
+	}
+	.question-title h1 {
+		font-size: 20px;
+	}
+	button.accordion {
+    	font-size: 15px;
+	}
+	.accordion:after{
+		margin-top: -16px;
+	}
+	.sunnamed-maps {
+		padding-top: 10px;
+	}
+	.cause-row {
+		display: block;
+	}
+	.certificate-videos {
+		display: block;
+	}
+	.form-button {
+		width: 80%;
+		margin: 0 auto;
+	}
+	.image-block {
+		display: block;
+		padding-top: 0;
+		text-align: center;
+	}
+	.certificate-subtitle p {
+		font-size: 16px;
+		padding-top: 10px;
+	}
+	.certificate-work {
+		margin-top: 10px;
+		height: 100%;
+		background-image: none;
+	}
+	.learn-grid {
+		display: block;
+	}
+	.calendar-img img {
+		width: 100%;
+	}
+	.form-name input {
+		width: 327px;
+	}
+	.form-number input {
+		width: 327px;
+	}
+	.treatment-info {
+		display: block;
+	}
+	.students-title h1 {
+		font-size: 20px;
+		line-height: 28px;
+		padding-top: 10px;
+	}
+
+	.students-img {
+		display: block;
+		text-align: center;
+	}
+	.students-items {
+		padding-bottom: 20px;
+	}
+	.sunnamed-bonus {
+		margin-top: 10px;
+	}
+	.bonus-title h1 {
+		font-size: 24px;
+		line-height: 30px;
+		padding-top: 10px;
+	}
+	.sunnamed-gifts {
+		display: block;
+	}
+	.card-top {
+		padding-left: 10px;
+	}
+	.calendar-subtitle p {
+		font-size: 14px;
+		text-align: center;
+	}
+	.gifts-vector img {
+		padding-top: 10px;
+		margin-left: 0;
+	}
+	.card-left {
+		margin-left: 0;
+	}
+	.gifts-vector2 img {
+    	margin: -15px 0px 0px 90px;
+	}
+	.gifts-subtitle {
+    	margin: -24px 0px 0px 80px;
+	}
+	.footer-items {
+		display: block;
+		text-align: center;
+	}
+	.footer-sites {
+	    justify-content: center;
+	    align-items: center;
+	    padding-top: 20px;
+	}
+}
+
+@media screen and (min-width: 468px) and (max-width: 768px){
+	.header-menu {
+		display: block;
+	}
+	ul.item-nav {
+		justify-content: center;
+	}
+	.menu-right {
+		justify-content: center;
+	}
+	.main-items {
+		grid-template-columns: repeat(1, 1fr);
+		text-align: center;
+	}
+	.sunnamed-buttons {
+		justify-content: center;
+	}
+	.sunnamed-benefits {
+		border: none;
+	}
+	.cause-row {
+		grid-template-columns: repeat(2, 1fr);
+	}
+	.sunnamed-course p {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.sunnamed-income p {
+		font-size: 22px;
+		line-height: 100%;
+	}
+	.info-subtitle p {
+		font-size: 20px;
+	}
+	.treatment-info {
+		display: block;
+	}
+	.subtitle-text b {
+		text-align: center;
+	}
+	.video {
+    	margin: 0 auto;
+	}
+	.popup-back {
+    	height: 35vh;
+    	background-position: 73% 0%;
+	}
+	.cause-subtitle p {
+		font-size: 20px;
+	}
+	.certificate-videos {
+	    display: grid;
+	    grid-template-columns: repeat(2, 1fr);
+	    grid-column-gap: 12px;
+	}
+	.income p {
+		font-size: 15px;
+	}
+	.images img {
+		width: 100%;
+	}
+	.popup-back-one {
+		height: 220px;
+	}
+	.popup-back-two {
+		height: 220px;
+	}
+	.popup-back-three {
+		background-size: contain;
+	}
+	.popup-back-four {
+		background-size: contain;
+	}
+	.video-play {
+		height: 35%;
+	}
+	.video-play img {
+		width: 30%;
+	}
+	.students {
+		margin-top: 14rem;
+	}
+	.students-title {
+		padding-top: 90px;
+	}
+	.work-grid {
+		grid-template-columns: repeat(2, 1fr);
+		grid-column-gap: 10px;
+   		grid-row-gap: 1em;
+	}
+	.consultation-title h1 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.card-title h2 {
+		font-size: 17px;
+	}
+	.grid-card-one {
+		background-size: cover;
+	}
+	.grid-card-two {
+		background-size: cover;
+	}
+	.grid-card-three {
+		background-size: cover;
+	}
+	.students-img {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.students-items {
+    	padding: 0px 10px 0px 0px;
+	}
+	.students-items img {
+		width: 100%;
+	}
+	.sunnamed-gifts img {
+		width: 100%;
+	}
+	.gifts-vector2 img {
+		width: 30%;
+	}
+}
+
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 968px){
+	.header-menu {
+		display: block;
+	}
+	.item-nav img {
+		width: 90%;
+	}
+	ul.item-nav {
+		justify-content: center;
+	}
+	.menu-right {
+		justify-content: center;
+	}
+	.sunnamed-course p {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.sunnamed-income p {
+		font-size: 22px;
+		line-height: 100%;
+	}
+	.info-subtitle p {
+		font-size: 20px;
+	}
+	.treatment-info {
+		display: block;
+	}
+	.subtitle-text b {
+		text-align: center;
+	}
+	.video {
+    	margin: 0 auto;
+	}
+	.popup-back {
+    	height: 358px;
+	}
+	#videoWrap {
+		margin-top: -37rem;
+	}
+	.blackOut {
+    	margin-left: -4rem;
+	}
+	.popup-back-one {
+		height: 200px;
+		width: 77%;
+		margin-left: 4rem;
+		margin-bottom: 1.5rem;
+	}
+	.popup-back-two {
+		height: 200px;
+		width: 77%;
+	}
+	.popup-back-three {
+		height: 200px;
+		width: 77%;
+		margin-left: 4rem;
+	}
+	.popup-back-four {
+		height: 200px;
+		width: 77%;
+	}
+	.students-title h1 {
+		padding-top: 30px;
+	}
+	.cause-subtitle p {
+		font-size: 20px;
+	}
+	.certificate-videos {
+	    display: grid;
+	    grid-template-columns: repeat(2, 1fr);
+	    grid-column-gap: 12px;
+	}
+	.income p {
+		font-size: 15px;
+	}
+	.images img {
+		width: 100%;
+	}
+	.videos {
+		background-size: contain;
+	}
+	.videos2 {
+		background-size: contain;
+	}
+	.videos3 {
+		background-size: contain;
+	}
+	.videos4 {
+		background-size: contain;
+	}
+	.video-play {
+		height: 35%;
+	}
+	.video-play img {
+		width: 30%;
+	}
+	.students {
+		margin-top: 0;
+	}
+	.work-grid {
+		grid-template-columns: repeat(2, 1fr);
+		grid-column-gap: 10px;
+   		grid-row-gap: 1em;
+	}
+	.grid-card-one {
+		background-size: contain;
+	}
+	.grid-card-two {
+		background-size: contain;
+	}
+	.grid-card-three {
+		background-size: contain;
+	}
+	.students-img {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.students-items {
+    	padding: 0px 10px 0px 0px;
+	}
+	.students-items img {
+		width: 100%;
+	}
+	.sunnamed-gifts img {
+		width: 100%;
+	}
+	.gifts-vector2 img {
+		width: 30%;
+	}
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 968px) and (max-width: 1268px){
+	.students-items img {
+		width: 100%;
+	}
+	.students-img {
+		grid-column-gap: 10px;
+	}
+	.main {
+		background-repeat: repeat;
+	}
+	.work-grid {
+		grid-column-gap: 20px;
+	}
+	.certificate-videos {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-column-gap: 20px;
+	}
+	.popup-back-one {
+    	border-radius: 30px;
+	}
+	.popup-back-two {
+    	border-radius: 30px;
+	}
+	.popup-back-three {
+    	border-radius: 30px;
+	}
+	.popup-back-four {
+    	border-radius: 30px;
+	}
+}
